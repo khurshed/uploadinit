@@ -1,3 +1,3 @@
 <?php
 
-echo "pull data xcvxvxcvby command";
+echo "pull data command";
