@@ -1,3 +1,3 @@
 <?php
 
-echo "test dfgdfg-18-6-15";
+echo "1234";
